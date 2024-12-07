@@ -5300,7 +5300,7 @@ local aa = {
             HoverChange = 0.04
         }
     end,
-    [54] = function()
+[54] = function()
     local aa, ab, ac, ad, ae = b(54)
     return {
         Name = "Imp",

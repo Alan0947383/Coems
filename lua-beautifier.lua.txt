@@ -4375,7 +4375,9 @@ local aa = {
                 ["lucide-x-square"] = "rbxassetid://10747384217",
                 ["lucide-zoom-in"] = "rbxassetid://10747384552",
                 ["lucide-zoom-out"] = "rbxassetid://10747384679",
-                ["lucide-chart-no-axes-combined"] = "rbxassetid://129984593319941"
+                ["lucide-chart-no-axes-combined"] = "rbxassetid://129984593319941",
+                ["lucide-circle-dashed"] = "rbxassetid://134216288028249",
+                ["lucide-list-tree"] = "rbxassetid://97843374297714"
             }
         }
     end,

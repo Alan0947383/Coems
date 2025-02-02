@@ -4378,7 +4378,8 @@ local aa = {
                 ["lucide-chart-no-axes-combined"] = "rbxassetid://129984593319941",
                 ["lucide-circle-dashed"] = "rbxassetid://134216288028249",
                 ["lucide-list-tree"] = "rbxassetid://97843374297714",
-                ["lucide-dna"] = "rbxassetid://79173999507320"
+                ["lucide-dna"] = "rbxassetid://79173999507320",
+                ["lucide-discord-logo-fill"] = "rbxassetid://92837808123917"
             }
         }
     end,

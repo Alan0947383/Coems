@@ -4379,7 +4379,8 @@ local aa = {
                 ["lucide-circle-dashed"] = "rbxassetid://134216288028249",
                 ["lucide-list-tree"] = "rbxassetid://97843374297714",
                 ["lucide-dna"] = "rbxassetid://79173999507320",
-                ["lucide-discord-logo-fill"] = "rbxassetid://92837808123917"
+                ["lucide-discord-logo-fill"] = "rbxassetid://92837808123917",
+                ["lucide-treasure-chest"] = "rbxassetid://91678122949582"
             }
         }
     end,
